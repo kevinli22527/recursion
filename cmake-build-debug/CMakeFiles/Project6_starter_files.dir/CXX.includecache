@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/UT Austin/1st Year Classes/Software I (C,C++)/Project6_starter_files/MazeParams.h
+
+/cygdrive/c/UT Austin/1st Year Classes/Software I (C,C++)/Project6_starter_files/Recursion.h
+
+/cygdrive/c/UT Austin/1st Year Classes/Software I (C,C++)/Project6_starter_files/main.cpp
+stdio.h
+-
+stdlib.h
+-
+MazeParams.h
+/cygdrive/c/UT Austin/1st Year Classes/Software I (C,C++)/Project6_starter_files/MazeParams.h
+Recursion.h
+/cygdrive/c/UT Austin/1st Year Classes/Software I (C,C++)/Project6_starter_files/Recursion.h
+
